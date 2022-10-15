@@ -1,6 +1,11 @@
-TO-DO:
+TO-DO in programming:
 - Create function that plots a line from a point to a point in plot and calculates the length of the line in kilometers. And puts this in text above the line. This should be able to do this for all plots. And all plots of the (x,y) grid should have a scale in the bottom left corner that shows how long 100km is, like on a map.
 - Function that does this from hint "Widths of lines are measured in nm, but most commonly they are converted to km/s also using eq. (1), so that they can be better compared to velocities."
+- Copy functions from p3 assignment for plotting line intensity and stokes v
+
+TO-DO in analysis:
+- Find abnormalities in plots and compare magnetic field ect at these locations.
+- Should we average intensity over all wavelengths to find abnormalities?
 
 Questions to answer:
 
