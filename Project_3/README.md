@@ -3,13 +3,8 @@
 
 
 
-TO-DO in programming:
-- Function that plots scale bar is a bit broken when zooming in at spot. Need to be fixed.
 
-- Function that does this from hint "Widths of lines are measured in nm, but most commonly they are converted to km/s also using eq. (1), so that they can be better compared to velocities."
-- Find FWHM in interpolation plot. This is much much better than gaussian fit.
 
-- Plot FWHM for all (x,y) in a grid?
 
 TO-DO in analysis:
 - Find abnormalities in plots and compare magnetic field ect at these locations.
