@@ -9,6 +9,8 @@ TO-DO in programming:
 - Copy functions from p3 assignment for plotting line intensity and stokes v
 - Find FWHM in interpolation plot. This is much much better than gaussian fit.
 
+- Plot FWHM for all (x,y) in a grid?
+
 TO-DO in analysis:
 - Find abnormalities in plots and compare magnetic field ect at these locations.
 - Should we average intensity over all wavelengths to find abnormalities?
